@@ -1,4 +1,4 @@
-require 'nameable'
+require_relative 'nameable'
 class Person < Nameable
   attr_accessor :name, :age, :parent_permission
   attr_reader :id
