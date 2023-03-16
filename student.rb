@@ -11,4 +11,9 @@ class Student < Person
   def play_hooky
     '¯\(ツ)/¯'
   end
+
+  def create_classroom(classroom)
+    @class_room = classroom
+    classroom.create_student(self) unless classroom.students.include?(self)
+  end
 end
