@@ -10,5 +10,4 @@ class ClassRoom
     @students << student
     student.class_room = self
   end
-
 end

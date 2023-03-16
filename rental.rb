@@ -1,4 +1,3 @@
-
 class Rental
   attr_accessor :date, :book, :person
 
@@ -17,5 +16,4 @@ class Rental
       person: @person.create_hash
     }
   end
-
 end
