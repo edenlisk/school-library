@@ -43,9 +43,6 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🚀 Live Demo <a name="live-demo"></a>
-No live demo link
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -80,12 +77,6 @@ Install this project with:
   cd my-project
   bundle install
 ```
-
-### Deployment
-
-You can deploy this project using:
-
-
 
 ## 👥 Authors <a name="authors"></a>
 
